@@ -1,0 +1,30 @@
+{
+    "caption": "Conjure text based file",
+    "fields": {
+        "ACv": {
+            "caption": "Text value",
+            "doc": "The text that will be inside the file.",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "text_value",
+            "rank": 0,
+            "value": "text"
+        },
+        "ACw": {
+            "caption": "File name without extension",
+            "doc": "If the file will be \"my_file.txt\", then here you'll input \"my_file\". Always without quotes.",
+            "editor": "DynamicValue",
+            "name": "file_name_without_extension",
+            "rank": 1,
+            "value": "text"
+        },
+        "ACz": {
+            "caption": "File extension",
+            "doc": "If the file will be \"my_file.txt\", then here you'll input \"txt\". Always without quotes.",
+            "editor": "DynamicValue",
+            "name": "file_extension",
+            "rank": 2,
+            "value": "text"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "add_is_visible": false,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 16,
+        "width": 16
+    },
+    "display": "File Conjurer",
+    "events": {
+        "AAK": {
+            "caption": "Save",
+            "name": "save"
+        }
+    },
+    "icon": "ion-ios-download-outline",
+    "states": {
+        "AAJ": {
+            "caption": "url",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "url",
+            "value": "file"
+        }
+    }
+}

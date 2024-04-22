@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAD": {
+            "name": "file saver",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1581106597185x234285498129985570/filesaver.min.js"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": "4",
+        "use_jquery": true
+    }
+}

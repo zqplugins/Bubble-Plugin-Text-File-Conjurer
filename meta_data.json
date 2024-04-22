@@ -1,0 +1,13 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "productivity",
+        "2": "media"
+    },
+    "description": "This plugin has been recently acquired by Zeroqode - please bear with us while we review the code and make improvements/fixes where necessary.\n\nPass a text to the workflow action and it creates a text file for you.\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/text-file-conjurer-plugin-for-bubble-1712924780076x577447026381046300\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com ",
+    "image": "//s3.amazonaws.com/appforest_uf/f1581107148325x286292123939394300/rolled-cloth.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Text File Conjurer",
+    "sa_node_version": 18
+}
